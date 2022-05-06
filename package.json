@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.6.0",
+    "@openzeppelin/contracts-upgradeable": "^4.6.0",
+    "@openzeppelin/truffle-upgrades": "^1.15.0",
+    "@truffle/hdwallet-provider": "^2.0.8",
+    "package_name": "^1.0.2"
+  },
+  "devDependencies": {
+    "chai": "^4.3.6"
+  }
+}
